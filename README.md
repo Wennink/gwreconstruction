@@ -1,12 +1,16 @@
-This program is associated with the paper 'Reconstruction theorems for genus 2
-Gromov-Witten invariants' by Thomas Wennink.
+This program is associated with the paper [Reconstruction theorems for genus 2
+Gromov-Witten invariants](https://doi.org/10.48550/arXiv.2210.04038).
 
-This program contains an old version of admcycles. See https://gitlab.com/modulispaces/admcycles
+Part of this work has been incorporated into the [admcycles package](https://gitlab.com/modulispaces/admcycles).
+This program builds upon an older version of `admcycles`.
 
-An improved version of part of this has been incorporated into the admcycles project.
+To install the program place the reconstructioncode and thesiscode folders in the same directory. Then run sagemath from that directory and type load('reconstructioncode/init.sage')
 
-To install the program place the admcycles and thesiscode folders in the same directory. Then run sagemath from that directory and type load('reconstructioncode/init.sage')
+The file `reconstruction_program.pdf` contains information and instructions about the program.
 
-There is a list of functions in the file "papercommands.sage" that provide the data required in the paper.
+The file`reconstruction_results.pdf` contains computational results.
+
+There is a list of functions in the file `papercommands.sage` that provide the data required in the paper.
+
 
 When there are partially symmetric relations, our convention is that the first points are fixed by the symmetry action, while the later points are the 'unsymmetric' ones
