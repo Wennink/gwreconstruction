@@ -15,4 +15,4 @@ There is a list of functions in the file `papercommands.sage` that provide the d
 
 When there are partially symmetric relations, our convention is that the first points are fixed by the symmetry action, while the later points are the 'unsymmetric' ones
 
-The `code` directory contains the extracted contents of `weight_graded_pieces_of_cohomology_code.zip`. The latter is retained as a separate file for archival purposes.
+The `code` directory contains the extracted contents of `Reconstructing GWI in genus 2.zip`. The latter is retained as a separate file for archival purposes.
